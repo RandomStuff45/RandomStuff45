@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RandomStuff45
-- 👀 I’m interested in codin python, HTML, CSS, and Javascript.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in coding Python.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on nothing right now.
 - 📫 How to reach me: Uhhh no.
 - 😄 Pronouns: Him, He, His
