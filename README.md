@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RandomStuff45
 - 👀 I’m interested in coding Python.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on nothing right now.
-- 📫 How to reach me: Uhhh no.
+- 🌱 I’m currently learning GUI creation in Python.
+- 💞️ I’m looking to collaborate on something in my random python stuff or anything in python right now.
+- 📫 E-mail: luca.s.salazar@hotmail.com
 - 😄 Pronouns: Him, He, His
 - ⚡ Fun fact: I have a bearded dragon
 
